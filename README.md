@@ -1,4 +1,4 @@
-#NLP
+# NLP
 
 This repository is where I’m learning and experimenting with Natural Language Processing (NLP) step by step.
 The goal is not just to use libraries, but to actually understand how text data is processed, represented, and used to build intelligent models.
